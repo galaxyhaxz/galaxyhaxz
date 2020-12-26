@@ -1,6 +1,6 @@
-Discord: GalaXyHaXz#5227
+#### Discord: GalaXyHaXz#5227
 
-Life is a quest for exploration and an endless opportunity to learn new things.
+*Life is a quest for exploration and an endless opportunity to learn new things.*
 
 I code as a way to solve complex problems. I also love poetry, literature, romance, and the arts.
 
