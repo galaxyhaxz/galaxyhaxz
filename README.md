@@ -1,6 +1,8 @@
 Discord: GalaXyHaXz#5227
 
-Life is a quest for exploration and an endless opportunity to learn new things. I code as a way to solve complex problems. I also love poetry, literature, romance, and the arts.
+Life is a quest for exploration and an endless opportunity to learn new things.
+
+I code as a way to solve complex problems. I also love poetry, literature, romance, and the arts.
 
 <!--
 **galaxyhaxz/galaxyhaxz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
