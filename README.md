@@ -1,7 +1,5 @@
 ### Discord: GalaXyHaXz#5227
 
-I code as a way to solve complex problems. I also love poetry, literature, romance, and the arts.
-
 *Life is a quest for exploration and an endless opportunity to learn new things.*
 
 <!--
