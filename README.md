@@ -1,5 +1,4 @@
-### Discord: GalaXyHaXz#5227
-### [LinkedIn Profile](https://www.linkedin.com/public-profile/in/andi-seilee-016798204/) | [Golang Cafe](https://golang.cafe/developer/andi-seilee-1611397750)
+## Discord: GalaXyHaXz#5227 | [LinkedIn Profile](https://www.linkedin.com/public-profile/in/andi-seilee-016798204/) | [Golang Cafe](https://golang.cafe/developer/andi-seilee-1611397750)
 
 *Life is a quest for exploration and an endless opportunity to learn new things.*
 
