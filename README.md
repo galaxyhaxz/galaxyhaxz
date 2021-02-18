@@ -2,7 +2,7 @@
 
 *Life is a quest for exploration and an endless opportunity to learn new things.*
 
-### Searching for an IT job, I'm willing to relocate and also work unpaid.
+### Searching for an IT job, wanting to relocate and will also take unpaid internships.
 ### I'm interested in both game design and software development, C/C++/Go/Python.
 
 <!--
