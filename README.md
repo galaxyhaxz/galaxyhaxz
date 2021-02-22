@@ -5,6 +5,8 @@
 ### Searching for an IT job, wanting to relocate and will also take unpaid internships.
 ### I'm interested in both game design and software development, C/C++/Go/Python.
 
+# If you want to support me, refer me to your company and help me find a job!
+
 <!--
 **galaxyhaxz/galaxyhaxz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
