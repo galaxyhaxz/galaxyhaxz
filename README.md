@@ -2,9 +2,6 @@
 
 *Life is a quest for exploration and an endless opportunity to learn new things.*
 
-### Searching for an IT job, wanting to relocate and will also take unpaid internships.
-### I'm interested in both game design and software development, C/C++/Go/Python.
-
 <!--
 **galaxyhaxz/galaxyhaxz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
