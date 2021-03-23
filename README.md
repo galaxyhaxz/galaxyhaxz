@@ -2,6 +2,8 @@
 
 *Life is a quest for exploration and an endless opportunity to learn new things.*
 
+In need of a job! I'm willing to relocate.
+
 <!--
 **galaxyhaxz/galaxyhaxz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
