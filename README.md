@@ -2,7 +2,7 @@
 
 *Life is a quest for exploration and an endless opportunity to learn new things.*
 
-In need of a job! I'm willing to relocate. I may not have lots of experience, but ask yourself, how did you get your first job when you had no experience either?
+Somewhere beyond the meadows and deep in a forest, down into the cellars I reside, living in this eternal nightmare.
 
 <!--
 **galaxyhaxz/galaxyhaxz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
