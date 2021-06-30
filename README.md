@@ -4,8 +4,6 @@
 
 *Somewhere beyond the meadows and deep in a forest, down into the cellars I reside, living in this eternal nightmare...*
 
-### Wanna support me? Hire me at your company so I can leave my job cleaning bathrooms!
-
 <details><summary>GitHub Stats</summary>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=galaxyhaxz&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
