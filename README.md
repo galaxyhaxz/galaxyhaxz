@@ -1,4 +1,4 @@
-## Discord: GalaXyHaXz#5227 | [LinkedIn Profile](https://www.linkedin.com/public-profile/in/andi-seilee-016798204/)
+__Discord: GalaXyHaXz#5227__
 
 *Life is a quest for exploration and an endless opportunity to learn new things.*
 
