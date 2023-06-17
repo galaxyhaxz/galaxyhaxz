@@ -1,4 +1,4 @@
-__Discord: GalaXyHaXz#5227__
+__Discord: galaxyhaxz__
 
 *Life is a quest for exploration and an endless opportunity to learn new things.*
 
