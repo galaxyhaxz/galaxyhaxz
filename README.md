@@ -1,6 +1,6 @@
 __Discord: galaxyhaxz__
 
-*Life is a quest for exploration and an endless opportunity to learn new things.*
+*Every system designed to manage redundancy, adds complexity, until it too becomes redundant.*
 
 *Somewhere beyond the meadows and deep in a forest, down into the cellars I reside, living in this eternal nightmare...*
 
